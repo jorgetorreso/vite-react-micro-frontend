@@ -2,13 +2,6 @@
 
 Vite React Micro-Frontend
 
-**Feature**
- ☀️ Micro FrontEnd using  vite-plugin-federation  🔥
- ☀️ Monorepo using pnpm 🔥
- ☀️ Develop & build using vite 🔥
- ☀️ Support React.js 🔥
- ☀️ Auto develop and build commands. 🔥
-
  ## Feature
 
 -   [x] Micro Front End using [vite-plugin-federation](https://github.com/originjs/vite-plugin-federation) 🔥
